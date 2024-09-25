@@ -1,0 +1,58 @@
+ ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:rgb(106, 154, 176);
+      }
+
+      li {
+        float: left;
+      }
+
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      li a:hover {
+        background-color:rgb(58, 109, 140);
+        font-size: 1.2em;
+      }
+
+    .cart{
+      width: 40px;
+      float: right; 
+      margin-right: 20px;
+      padding: 5px; 
+    }
+
+
+    .button {
+      float: right; 
+      margin-right: 20px;
+      margin-top: 7px;
+      font-size: 1rem; 
+      color: white; 
+      background: linear-gradient(45deg, #1e90ff, #00bfff); 
+      padding: 10px 25px; 
+      border: none; 
+      border-radius: 25px;
+      cursor: pointer; 
+      transition: background 0.3s, transform 0.3s; 
+      }
+  
+  .button:hover {
+      background: linear-gradient(45deg, #00bfff, #1e90ff); 
+      transform: translateY(-3px); 
+  }
+
+  .span{
+    float: right; 
+    margin-right: 20px;
+    margin-top: 12px;
+
+  }
