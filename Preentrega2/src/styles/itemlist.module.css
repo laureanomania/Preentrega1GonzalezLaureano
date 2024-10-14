@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.container-image {
+    width: 100%; 
+    border-radius: 5px; 
+    height: auto; 
+  }
+  
+  .container-details {
+    padding: 10px 0; 
+  }
+  
+   .container-title {
+    font-size: 0.9em; /* Ajustar el tamaño del texto */
+    margin: 0; /* Eliminar margen */
+    color: #972121; /* Color del texto */
+  }
+  
+  .container-price {
+    font-size: 0.9em; /* Ajustar el tamaño del precio */
+    color: #888; /* Color del texto del precio */
+  }
+
+  .detailModal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    z-index: 1000;
+  }

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Sony Xperia 5 II",
+    "description": "Smartphone de Sony con cámara triple.",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150?text=Sony+Xperia+5+II",
+    "brand": "Sony",
+    "condition": "nuevo"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 13",
+    "description": "Smartphone de Apple con cámara dual.",
+    "price": 1099.99,
+    "image": "https://via.placeholder.com/150?text=iPhone+13",
+    "brand": "Apple",
+    "condition": "usado"
+  },
+  {
+    "id": 3,
+    "title": "Samsung Galaxy S21",
+    "description": "Smartphone de Samsung con pantalla AMOLED.",
+    "price": 899.99,
+    "image": "https://via.placeholder.com/150?text=Samsung+Galaxy+S21",
+    "brand": "Samsung",
+    "condition": "nuevo"
+  },
+  {
+    "id": 4,
+    "title": "Xiaomi Mi 11",
+    "description": "Smartphone de Xiaomi con gran batería.",
+    "price": 749.99,
+    "image": "https://via.placeholder.com/150?text=Xiaomi+Mi+11",
+    "brand": "Xiaomi",
+    "condition": "usado"
+  },
+  {
+    "id": 5,
+    "title": "Google Pixel 6",
+    "description": "Smartphone de Google con excelente cámara.",
+    "price": 699.99,
+    "image": "https://via.placeholder.com/150?text=Google+Pixel+6",
+    "brand": "Google",
+    "condition": "nuevo"
+  },
+  {
+    "id": 6,
+    "title": "OnePlus 9",
+    "description": "Smartphone de OnePlus con carga rápida.",
+    "price": 729.99,
+    "image": "https://via.placeholder.com/150?text=OnePlus+9",
+    "brand": "OnePlus",
+    "condition": "usado"
+  },
+  {
+    "id": 7,
+    "title": "Nokia 8.3",
+    "description": "Smartphone de Nokia con conectividad 5G.",
+    "price": 699.99,
+    "image": "https://via.placeholder.com/150?text=Nokia+8.3",
+    "brand": "Nokia",
+    "condition": "nuevo"
+  },
+  {
+    "id": 8,
+    "title": "Huawei P40 Pro",
+    "description": "Smartphone de Huawei con cámara cuádruple.",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150?text=Huawei+P40+Pro",
+    "brand": "Huawei",
+    "condition": "usado"
+  },
+  {
+    "id": 9,
+    "title": "Motorola Edge",
+    "description": "Smartphone de Motorola con pantalla curva.",
+    "price": 799.99,
+    "image": "https://via.placeholder.com/150?text=Motorola+Edge",
+    "brand": "Motorola",
+    "condition": "nuevo"
+  },
+  {
+    "id": 10,
+    "title": "Realme GT",
+    "description": "Smartphone de Realme con gran rendimiento.",
+    "price": 649.99,
+    "image": "https://via.placeholder.com/150?text=Realme+GT",
+    "brand": "Realme",
+    "condition": "usado"
+  },
+  {
+    "id": 11,
+    "title": "LG Velvet",
+    "description": "Smartphone de LG con diseño elegante.",
+    "price": 599.99,
+    "image": "https://via.placeholder.com/150?text=LG+Velvet",
+    "brand": "LG",
+    "condition": "nuevo"
+  },
+  {
+    "id": 12,
+    "title": "Asus ROG Phone 5",
+    "description": "Smartphone para gamers de Asus.",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150?text=Asus+ROG+Phone+5",
+    "brand": "Asus",
+    "condition": "usado"
+  },
+  {
+    "id": 13,
+    "title": "ZTE Axon 20",
+    "description": "Smartphone de ZTE con cámara bajo la pantalla.",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/150?text=ZTE+Axon+20",
+    "brand": "ZTE",
+    "condition": "nuevo"
+  },
+  {
+    "id": 14,
+    "title": "Vivo V21",
+    "description": "Smartphone de Vivo con enfoque en selfies.",
+    "price": 599.99,
+    "image": "https://via.placeholder.com/150?text=Vivo+V21",
+    "brand": "Vivo",
+    "condition": "usado"
+  },
+  {
+    "id": 15,
+    "title": "TCL 20 Pro 5G",
+    "description": "Smartphone de TCL con buena relación calidad-precio.",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/150?text=TCL+20+Pro+5G",
+    "brand": "TCL",
+    "condition": "nuevo"
+  },
+  {
+    "id": 16,
+    "title": "Sony Xperia 10 II",
+    "description": "Smartphone de Sony con pantalla OLED.",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/150?text=Sony+Xperia+10+II",
+    "brand": "Sony",
+    "condition": "usado"
+  },
+  {
+    "id": 17,
+    "title": "Apple iPhone SE",
+    "description": "Smartphone compacto de Apple.",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/150?text=Apple+iPhone+SE",
+    "brand": "Apple",
+    "condition": "nuevo"
+  },
+  {
+    "id": 18,
+    "title": "Samsung Galaxy A52",
+    "description": "Smartphone asequible de Samsung.",
+    "price": 349.99,
+    "image": "https://via.placeholder.com/150?text=Samsung+Galaxy+A52",
+    "brand": "Samsung",
+    "condition": "usado"
+  },
+  {
+    "id": 19,
+    "title": "Xiaomi Redmi Note 10",
+    "description": "Smartphone de Xiaomi con excelente batería.",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/150?text=Xiaomi+Redmi+Note+10",
+    "brand": "Xiaomi",
+    "condition": "nuevo"
+  },
+  {
+    "id": 20,
+    "title": "Google Pixel 5a",
+    "description": "Smartphone de Google con enfoque en fotografía.",
+    "price": 449.99,
+    "image": "https://via.placeholder.com/150?text=Google+Pixel+5a",
+    "brand": "Google",
+    "condition": "usado"
+  },
+  {
+    "id": 21,
+    "title": "OnePlus Nord",
+    "description": "Smartphone de OnePlus con gran pantalla.",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/150?text=OnePlus+Nord",
+    "brand": "OnePlus",
+    "condition": "nuevo"
+  },
+  {
+    "id": 22,
+    "title": "Nokia G20",
+    "description": "Smartphone de Nokia con batería duradera.",
+    "price": 249.99,
+    "image": "https://via.placeholder.com/150?text=Nokia+G20",
+    "brand": "Nokia",
+    "condition": "usado"
+  },
+  {
+    "id": 23,
+    "title": "Huawei P30 Lite",
+    "description": "Smartphone de Huawei con cámara triple.",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/150?text=Huawei+P30+Lite",
+    "brand": "Huawei",
+    "condition": "nuevo"
+  },
+  {
+    "id": 24,
+    "title": "Motorola Moto G Power",
+    "description": "Smartphone de Motorola con gran batería.",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150?text=Motorola+Moto+G+Power",
+    "brand": "Motorola",
+    "condition": "usado"
+  },
+  {
+    "id": 25,
+    "title": "Realme 8",
+    "description": "Smartphone de Realme con buena cámara.",
+    "price": 249.99,
+    "image": "https://via.placeholder.com/150?text=Realme+8",
+    "brand": "Realme",
+    "condition": "nuevo"
+  },
+  {
+    "id": 26,
+    "title": "LG Stylo 6",
+    "description": "Smartphone de LG con lápiz óptico.",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/150?text=LG+Stylo+6",
+    "brand": "LG",
+    "condition": "usado"
+  },
+  {
+    "id": 27,
+    "title": "Asus Zenfone 8",
+    "description": "Smartphone compacto de Asus.",
+    "price": 599.99,
+    "image": "https://via.placeholder.com/150?text=Asus+Zenfone+8",
+    "brand": "Asus",
+    "condition": "nuevo"
+  },
+  {
+    "id": 28,
+    "title": "ZTE Blade 20",
+    "description": "Smartphone de ZTE con buena pantalla.",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150?text=ZTE+Blade+20",
+    "brand": "ZTE",
+    "condition": "usado"
+  },
+  {
+    "id": 29,
+    "title": "Vivo Y21",
+    "description": "Smartphone de Vivo con diseño moderno.",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150?text=Vivo+Y21",
+    "brand": "Vivo",
+    "condition": "nuevo"
+  },
+  {
+    "id": 30,
+    "title": "TCL 10 Pro",
+    "description": "Smartphone de TCL con buena relación calidad-precio.",
+    "price": 349.99,
+    "image": "https://via.placeholder.com/150?text=TCL+10+Pro",
+    "brand": "TCL",
+    "condition": "usado"
+  }
+]

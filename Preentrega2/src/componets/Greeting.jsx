@@ -5,7 +5,7 @@ export const Greeting = ({message}) => {
     
   return (
     <>
-    <h1>Bienvenidos a Piter3D</h1>
+    <h1>Bienvenidos a PiterPhone</h1>
     <h2>{message}</h2>
     </>
   )
